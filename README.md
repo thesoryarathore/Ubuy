@@ -1,2 +1,2 @@
 # Ubuy
-A Complete ecommerce application with API built on  Angular 15, db.json, Bootstrap5,node18
+A Complete ecommerce application with API built on  React, Bootstrap5,node18
